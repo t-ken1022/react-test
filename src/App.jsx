@@ -38,7 +38,7 @@ const App = () => {
     <main className="mn-cnt">
       <div className="mn-cnt_bdy">
         <h1 style={{ color: "red" }}>Hello World</h1>
-        <ColorfulMessage color="blue">hogehoge</ColorfulMessage>
+        <ColorfulMessage color="blue">hogehogehogehoge</ColorfulMessage>
         <ColorfulMessage color="pink">fugafuga</ColorfulMessage>
         <button onClick={onClickButton}>カウントアップ</button>
         <br />
